@@ -25,3 +25,9 @@ This is my first plane I've ever designed, I choose these rules:
 - Landing: belly skid only
 - Prop: 9×4.5 (9045)
 - 3s Battery
+
+
+Read more here: https://blueprint.hackclub.com/projects/9363
+
+Contact me on Discord here:
+[![Discord](https://img.shields.io/badge/Discord-stick__studios-5865F2?logo=discord&logoColor=white)](https://discord.com/users/912034601210347540)
